@@ -1,1 +1,2 @@
-# meuprojteste
+# Aprendendo Git e Github
+## Praticando...
